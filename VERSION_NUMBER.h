@@ -4,6 +4,6 @@
 #define MAJOR_VERSION_NUMBER 0
 #define MINOR_VERSION_NUMBER 0
 
-#define BUILD_ID 1
+#define BUILD_ID 2
 
 #endif //_VERSION_NUMBER_H_
