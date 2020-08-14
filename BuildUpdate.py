@@ -55,7 +55,7 @@ def update_build(file_name):
 def main():
            # update_build("C:/Users/AtifM/Desktop/AutomatedTestsFiles/JenkinsTest.txt")
             update_build("VERSION_NUMBER.h")
-            print(str(build_id_int))
+            print(4)
    
 
 
