@@ -1,0 +1,10 @@
+11:46:49 **** Incremental Build of configuration Debug for project PeripheralEnable ****
+make -j8 all 
+arm-none-eabi-size   PeripheralEnable.elf 
+   text	   data	    bss	    dec	    hex	filename
+    796	      8	   1568	   2372	    944	PeripheralEnable.elf
+Finished building: default.size.stdout
+ 
+
+11:46:49 Build Finished. 0 errors, 0 warnings. (took 249ms)
+
