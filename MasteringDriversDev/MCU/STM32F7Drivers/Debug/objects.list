@@ -1,8 +1,0 @@
-"Src/006Spi_TxtestMain.o"
-"Src/syscalls.o"
-"Src/sysmem.o"
-"Startup/startup_stm32f767zitx.o"
-"drivers/Src/Stm32F7xxRcc.o"
-"drivers/Src/stm32f7xx_gpio.o"
-"drivers/Src/stm32f7xx_i2c.o"
-"drivers/Src/stm32f7xx_spi.o"
